@@ -1,4 +1,39 @@
-[
-  { "Phoenix-Core": "0.1.0" },
-  { "Phoenix--StuckVehicleFix": "0.1.0" }
-]
+{
+  "Plugins": {
+    "Phoenix-Core":     { "Version": "0.1.1", "Updated": "20 Sep '23", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Core"             },
+    "AdminMenu":        { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Banking":          { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Bathing":          { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Boats":            { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "DataSync":         { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Characters":       { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Clothing":         { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Customs":          { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "DoorLocks":        { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "FastTravel":       { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Guidance":         { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "GunStore":         { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Instruments":      { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Inventory":        { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "LumberJack":       { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Metabolism":       { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "NPCMenu":          { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "StuckVehicleFix":  { "Version": "0.1.0", "Updated": "20 Sep '23", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--StuckVehicleFix" },
+    "Properties":       { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Prospecting":      { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "SafeGuard":        { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Scavenger":        { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "ScratchCards":     { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "ScriptBundle":     { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Spawner":          { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Stables":          { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Skins":            { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Stores":           { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Telegrams":        { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Trains":           { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "UsableItems":      { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Weapons":          { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "WorldEdits":       { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Zones":            { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+  }
+}
