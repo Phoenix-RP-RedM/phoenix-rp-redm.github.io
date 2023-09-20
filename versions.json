@@ -1,6 +1,6 @@
 {
   "Plugins": {
-    "Phoenix-Core":     { "Version": "0.1.1", "Updated": "20 Sep '23", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Core"             },
+    "Phoenix-Core":     { "Version": "0.1.0", "Updated": "20 Sep '23", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Core"             },
     "AdminMenu":        { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Banking":          { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Bathing":          { "Version": "0.0.1", "Updated": "-- --- ---", "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
