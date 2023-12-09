@@ -3,8 +3,8 @@
   "Phoenix-DB":         { "Version": "0.1.0", "Updated": "11 Nov '23", "FolderName": "Phoenix-DB",                "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-DB"               },
   "Plugins": {
     "DataSync":         { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
-    "Emote":            { "Version": "0.0.1", "Updated": "08 Dec '23", "FolderName": "Phoenix--Emote",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Emote"           },
-    "Character":        { "Version": "0.0.1", "Updated": "08 Dec '23", "FolderName": "Phoenix--Character",        "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Character"       },
+    "Emote":            { "Version": "0.1.0", "Updated": "08 Dec '23", "FolderName": "Phoenix--Emote",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Emote"           },
+    "Character":        { "Version": "0.1.0", "Updated": "08 Dec '23", "FolderName": "Phoenix--Character",        "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Character"       },
     "Inventory":        { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Metabolism":       { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "NPCMenu":          { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
