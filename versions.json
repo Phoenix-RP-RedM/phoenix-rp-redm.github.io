@@ -1,8 +1,8 @@
 {
-  "Phoenix-Core":       { "Version": "0.1.0", "Updated": "20 Sep '23", "FolderName": "Phoenix-Core",              "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Core"             },
-  "Phoenix-DB":         { "Version": "0.1.0", "Updated": "11 Nov '23", "FolderName": "Phoenix-DB",                "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-DB"               },
-  "Phoenix-Sync":       { "Version": "0.1.0", "Updated": "15 Dec '23", "FolderName": "Phoenix-Sync",              "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Sync"             },
   "Plugins": {
+    "Core":             { "Version": "0.1.0", "Updated": "20 Sep '23", "FolderName": "Phoenix-Core",              "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Core"             },
+    "DB":               { "Version": "0.1.0", "Updated": "11 Nov '23", "FolderName": "Phoenix-DB",                "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-DB"               },
+    "Sync":             { "Version": "0.1.0", "Updated": "15 Dec '23", "FolderName": "Phoenix-Sync",              "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Sync"             },
     "Character":        { "Version": "0.1.0", "Updated": "08 Dec '23", "FolderName": "Phoenix--Character",        "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Character"       },
     "Emote":            { "Version": "0.1.0", "Updated": "08 Dec '23", "FolderName": "Phoenix--Emote",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Emote"           },
     "Interaction":      { "Version": "0.1.0", "Updated": "28 Oct '23", "FolderName": "Phoenix--Interaction",      "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Interaction"     },
