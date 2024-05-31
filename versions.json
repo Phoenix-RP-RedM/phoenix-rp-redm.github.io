@@ -7,6 +7,7 @@
     "Phoenix--Emote":            { "Version": "0.1.0", "Updated": "08 Dec '23", "FolderName": "Phoenix--Emote",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Emote"           },
     "Phoenix--Interaction":      { "Version": "0.1.0", "Updated": "28 Oct '23", "FolderName": "Phoenix--Interaction",      "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Interaction"     },
     "Phoenix--Inventory":        { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Phoenix--Maps":             { "Version": "0.1.0", "Updated": "31 May '24", "FolderName": "Phoenix--Maps",             "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Maps"            },
     "Phoenix--Metabolism":       { "Version": "0.1.0", "Updated": "08 May '24", "FolderName": "Phoenix--Metabolism",       "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Metabolism"      },
     "Phoenix--NPCMenu":          { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Phoenix--SafeGuard":        { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
