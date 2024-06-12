@@ -6,13 +6,15 @@
     "Phoenix--Character":        { "Version": "0.1.0", "Updated": "08 Dec '23", "FolderName": "Phoenix--Character",        "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Character"       },
     "Phoenix--Emote":            { "Version": "0.1.0", "Updated": "08 Dec '23", "FolderName": "Phoenix--Emote",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Emote"           },
     "Phoenix--Interaction":      { "Version": "0.1.0", "Updated": "28 Oct '23", "FolderName": "Phoenix--Interaction",      "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Interaction"     },
-    "Phoenix--Inventory":        { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Phoenix--Inventory":        { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix--Inventory",        "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Inventory"       },
     "Phoenix--Maps":             { "Version": "0.1.0", "Updated": "31 May '24", "FolderName": "Phoenix--Maps",             "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Maps"            },
     "Phoenix--Metabolism":       { "Version": "0.1.0", "Updated": "08 May '24", "FolderName": "Phoenix--Metabolism",       "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Metabolism"      },
+    "Phoenix--POI":              { "Version": "0.1.0", "Updated": "-- --- ---", "FolderName": "Phoenix--POI",              "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--POI"             },
     "Phoenix--NPCMenu":          { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Phoenix--SafeGuard":        { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Phoenix--Scavenger":        { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Phoenix--Spawner":          { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
+    "Phoenix--UI":               { "Version": "0.1.0", "Updated": "13 Jun '24", "FolderName": "Phoenix--UI",               "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--UI"              },
     "Phoenix--VoIP":             { "Version": "0.1.0", "Updated": "24 Mar '24", "FolderName": "Phoenix--VoIP",             "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--VoIP"            },
     "Phoenix--Zones":            { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           }
   }
