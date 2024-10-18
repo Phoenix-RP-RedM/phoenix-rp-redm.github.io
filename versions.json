@@ -17,7 +17,6 @@
     "Phoenix--Scavenger":        { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Phoenix--Spawner":          { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Phoenix--UI":               { "Version": "0.1.0", "Updated": "13 Jun '24", "FolderName": "Phoenix--UI",               "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--UI"              },
-    "Phoenix--VoIP":             { "Version": "0.1.0", "Updated": "24 Mar '24", "FolderName": "Phoenix--VoIP",             "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--VoIP"            },
-    "Phoenix--Zones":            { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           }
+    "Phoenix--VoIP":             { "Version": "0.1.0", "Updated": "24 Mar '24", "FolderName": "Phoenix--VoIP",             "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--VoIP"            }
   }
 }
