@@ -11,6 +11,7 @@
     "Phoenix--Map":              { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix--Map",              "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Map"             },
     "Phoenix--Maps":             { "Version": "0.1.0", "Updated": "31 May '24", "FolderName": "Phoenix--Maps",             "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Maps"            },
     "Phoenix--Metabolism":       { "Version": "0.1.0", "Updated": "08 May '24", "FolderName": "Phoenix--Metabolism",       "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Metabolism"      },
+    "Phoenix--Playtest":         { "Version": "0.1.0", "Updated": "18 Oct '24", "FolderName": "Phoenix--Playtest",         "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Playtest"        },
     "Phoenix--POI":              { "Version": "0.1.0", "Updated": "-- --- ---", "FolderName": "Phoenix--POI",              "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--POI"             },
     "Phoenix--NPCMenu":          { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Phoenix--SafeGuard":        { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
