@@ -14,10 +14,7 @@
     "Phoenix--Metabolism":       { "Version": "0.1.0", "Updated": "08 May '24", "FolderName": "Phoenix--Metabolism",       "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Metabolism"      },
     "Phoenix--Playtest":         { "Version": "0.1.0", "Updated": "18 Oct '24", "FolderName": "Phoenix--Playtest",         "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Playtest"        },
     "Phoenix--POI":              { "Version": "0.1.0", "Updated": "15 Sep '24", "FolderName": "Phoenix--POI",              "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--POI"             },
-    "Phoenix--NPCMenu":          { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
-    "Phoenix--SafeGuard":        { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Phoenix--Skill":            { "Version": "0.1.0", "Updated": "15 Jul '25", "FolderName": "Phoenix-Skill",             "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Skill"            },
-    "Phoenix--Spawner":          { "Version": "0.0.1", "Updated": "-- --- ---", "FolderName": "Phoenix-Server",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix-Server"           },
     "Phoenix--UI":               { "Version": "0.1.0", "Updated": "13 Jun '24", "FolderName": "Phoenix--UI",               "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--UI"              },
     "Phoenix--VoIP":             { "Version": "0.1.0", "Updated": "24 Mar '24", "FolderName": "Phoenix--VoIP",             "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--VoIP"            },
   }
