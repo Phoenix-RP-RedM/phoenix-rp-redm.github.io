@@ -6,6 +6,7 @@
     "Phoenix--Animation":        { "Version": "0.1.0", "Updated": "08 Dec '23", "FolderName": "Phoenix--Animation",        "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Animation"       },
     "Phoenix--Character":        { "Version": "0.1.0", "Updated": "08 Dec '23", "FolderName": "Phoenix--Character",        "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Character"       },
     "Phoenix--Cinematic":        { "Version": "0.1.0", "Updated": "16 Apr '25", "FolderName": "Phoenix--Cinematic",        "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Cinematic"       },
+    "Phoenix--Craft":            { "Version": "0.1.0", "Updated": "16 Oct '25", "FolderName": "Phoenix--Craft",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Craft"           },
     "Phoenix--Fauna":            { "Version": "0.1.0", "Updated": "11 Nov '24", "FolderName": "Phoenix--Fauna",            "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Fauna"           },
     "Phoenix--Interaction":      { "Version": "0.1.0", "Updated": "28 Oct '23", "FolderName": "Phoenix--Interaction",      "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Interaction"     },
     "Phoenix--Inventory":        { "Version": "0.1.0", "Updated": "18 Oct '24", "FolderName": "Phoenix--Inventory",        "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Inventory"       },
