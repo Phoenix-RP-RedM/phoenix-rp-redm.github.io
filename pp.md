@@ -1,5 +1,5 @@
 # Politique de confidentialité – PhoenixApp
-**Dernière mise à jour : 11 juillet 2025**
+**Dernière mise à jour : 24 mars 2026**
 
 PhoenixApp respecte la vie privée de ses utilisateurs et s’engage à protéger les données personnelles traitées dans le cadre de son fonctionnement.
 
@@ -67,7 +67,7 @@ Les données sont accessibles uniquement :
 
 ## 8. Dons et données
 
-Si un utilisateur effectue un don via **Patreon** ou **Stripe**, seules les informations liées à **son identifiant Discord** sont utilisées pour attribuer les rôles sur Discord. Aucune donnée bancaire ou personnelle n’est traitée par PhoenixApp.
+Si un utilisateur effectue un don via **la boutique Discord**, seules les informations liées à **son identifiant Discord** sont utilisées pour attribuer les rôles sur Discord. Aucune donnée bancaire ou personnelle n’est traitée par PhoenixApp.
 
 ---
 
