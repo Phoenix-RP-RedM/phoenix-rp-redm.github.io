@@ -1,5 +1,5 @@
 # Terms of Service – PhoenixApp
-**Dernière mise à jour : 11 juillet 2025**
+**Dernière mise à jour : 24 mars 2026**
 
 En utilisant le bot **PhoenixApp**, vous acceptez de vous conformer aux présentes Conditions Générales d’Utilisation (CGU). Ce document régit l’utilisation du bot sur les serveurs Discord autorisés par son propriétaire.
 
@@ -36,7 +36,7 @@ PhoenixApp offre, entre autres, les fonctionnalités suivantes :
 
 ## 4. Don et soutien
 
-- Les dons effectués via **Patreon** ou **Stripe** sont entièrement **facultatifs**.
+- Les dons effectués via **la boutique Discord** sont entièrement **facultatifs**.
 - Les donateurs peuvent recevoir **des rôles spéciaux** sur le serveur Discord leur permettant d’accéder à certains canaux textuels réservés.
 - Aucune obligation d’achat n’est requise pour utiliser PhoenixApp.
 
