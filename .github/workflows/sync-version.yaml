@@ -1,0 +1,29 @@
+name: Auto-Sync Registry
+on:
+  repository_dispatch:
+    types: [resource_update]
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ORG_RELEASE_TOKEN }} # Nécessaire pour repousser sur le repo
+
+      - name: Update JSON
+        run: |
+          RES_NAME="${{ github.event.client_payload.name }}"
+          RAW_VER=$(echo "${{ github.event.client_payload.version }}" | sed 's/^v//')
+          DATE=$(date +"%d %b '%y")
+
+          jq --arg folder "$RES_NAME" --arg ver "$RAW_VER" --arg date "$DATE" \
+          '(.Plugins[] | select(.FolderName == $folder)) |= (.Version = $ver | .Updated = $date)' \
+          version.json > tmp.json && mv tmp.json version.json
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "Phoenix-Registry-Bot"
+          git add version.json
+          git commit -m "registry: update $RES_NAME to $RAW_VER"
+          git push
