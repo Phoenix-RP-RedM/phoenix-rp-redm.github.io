@@ -19,6 +19,6 @@
     "Phoenix--Skill":            { "Version": "0.1.0", "Updated": "15 Jul '25", "FolderName": "Phoenix--Skill",          "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Skill"          },
     "Phoenix--Shop":             { "Version": "0.1.0", "Updated": "14 Dec '25", "FolderName": "Phoenix--Shop",           "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--Shop"           },
     "Phoenix--UI":               { "Version": "0.1.0", "Updated": "13 Jun '24", "FolderName": "Phoenix--UI",             "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--UI"             },
-    "Phoenix--VoIP":             { "Version": "0.1.0", "Updated": "24 Mar '24", "FolderName": "Phoenix--VoIP",           "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--VoIP"           },
+    "Phoenix--VoIP":             { "Version": "0.1.0", "Updated": "24 Mar '24", "FolderName": "Phoenix--VoIP",           "URL": "https://github.com/Phoenix-RP-RedM/Phoenix--VoIP"           }
   }
 }
