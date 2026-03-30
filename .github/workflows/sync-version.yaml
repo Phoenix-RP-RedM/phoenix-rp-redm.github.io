@@ -19,11 +19,11 @@ jobs:
 
           jq --arg folder "$RES_NAME" --arg ver "$RAW_VER" --arg date "$DATE" \
           '(.Plugins[] | select(.FolderName == $folder)) |= (.Version = $ver | .Updated = $date)' \
-          version.json > tmp.json && mv tmp.json version.json
+          versions.json > tmp.json && mv tmp.json versions.json
 
       - name: Commit & Push
         run: |
           git config --global user.name "Phoenix-Registry-Bot"
-          git add version.json
+          git add versions.json
           git commit -m "registry: update $RES_NAME to $RAW_VER"
           git push
